@@ -1,5 +1,5 @@
 {
-    "name": "Sandhya",
+    "name": "Sandhya konduru",
     "icons": [
         {
             "src": "/android-chrome-144x144.png",
@@ -7,7 +7,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "#212121",
     "background_color": "#ffffff",
     "display": "standalone"
 }
